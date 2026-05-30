@@ -59,7 +59,7 @@ Analytics Dashboard (Next.js)
 Repository:
 
 ```bash
-user-analytics-api (https://github.com/amarkumar55/user-analytics-api)
+user-analytics-api (https://github.com/amarskdev/user-analytics-api)
 ```
 
 Tech Stack:
@@ -87,7 +87,8 @@ Features:
 Repository:
 
 ```bash
-user-analytics-dashboard (https://github.com/amarkumar55/user-analytics-dashboard)
+user-analytics-dashboard (https://github.com/amarskdev
+/user-analytics-dashboard)
 ```
 
 Tech Stack:
@@ -420,7 +421,7 @@ Amar Kumar
 
 Senior Software Engineer
 
-Linkedin: https://www.linkedin.com/in/amarkumar241429017/
+Linkedin: https://www.linkedin.com/in/amarskdev/
 
 GitHub: https://github.com/amarkumar55
 
