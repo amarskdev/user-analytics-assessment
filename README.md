@@ -114,7 +114,7 @@ Features:
 Repository:
 
 ```bash
-user-analytics-demo-site (https://github.com/amarkumar55/user-analytics-demo-site)
+user-analytics-demo-site (https://github.com/amarskdev/user-analytics-demo-site)
 ```
 
 Tech Stack:
