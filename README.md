@@ -249,13 +249,13 @@ Compound indexes improve:
 
 ```bash
 # Backend
-https://github.com/amarkumar55/user-analytics-api
+https://github.com/amarskdev/user-analytics-api
 
 # Dashboard
-https://github.com/amarkumar55/user-analytics-dashboard
+https://github.com/amarskdev/user-analytics-dashboard
 
 # Demo Site
-https://github.com/amarkumar55/user-analytics-demo-site
+https://github.com/amarskdev/user-analytics-demo-site
 ```
 
 ---
