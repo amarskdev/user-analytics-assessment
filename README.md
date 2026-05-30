@@ -87,8 +87,7 @@ Features:
 Repository:
 
 ```bash
-user-analytics-dashboard (https://github.com/amarskdev
-/user-analytics-dashboard)
+user-analytics-dashboard (https://github.com/amarskdev/user-analytics-dashboard)
 ```
 
 Tech Stack:
