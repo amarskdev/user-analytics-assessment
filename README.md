@@ -423,6 +423,6 @@ Senior Software Engineer
 
 Linkedin: https://www.linkedin.com/in/amarskdev/
 
-GitHub: https://github.com/amarkumar55
+GitHub: https://github.com/amarskdev
 
 
