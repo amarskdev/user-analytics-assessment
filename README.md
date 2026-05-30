@@ -416,7 +416,6 @@ Suggested screenshots:
 
 ## 🤝 Connect With Me
 
----
 
 <div align="center">
 
@@ -436,4 +435,3 @@ Suggested screenshots:
 
 </div>
 
----
